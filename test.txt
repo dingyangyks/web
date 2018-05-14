@@ -6,4 +6,5 @@ try again
 
 no `git fetch origin master`
 
-use another method
+use another method  
+get conflict
